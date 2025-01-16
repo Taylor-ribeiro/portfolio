@@ -1,4 +1,4 @@
 ---
-title: Hi! I'm Taylor
+title: Taylor Ribeiro
 ---
 
