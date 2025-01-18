@@ -8,4 +8,4 @@
 
 | Year     | Project Name      | Description                               | Category            | Languages       |
 |------------------|------------------|-----------------------------------|------------------|--------------|
-| Salesforce Merge Automation  | I worked directly with the IT Production team on generating an end-to-end automated process to merge duplicate customer records in salesforce. As the primary data steward, I worked on verifying uniformity and accuracy of data implementation processes across the database and ensured alignment with MDM.  | Data Analysis, Process Automation      | SQL  |
+|2015| Salesforce Merge Automation  | I worked directly with the IT Production team on generating an end-to-end automated process to merge duplicate customer records in salesforce. As the primary data steward, I worked on verifying uniformity and accuracy of data implementation processes across the database and ensured alignment with MDM.  | Data Analysis, Process Automation      | SQL  |
